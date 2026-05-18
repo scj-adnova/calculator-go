@@ -1,0 +1,11 @@
+# Binaries
+calculator-go
+*.exe
+
+# Build output
+/bin/
+/dist/
+
+# Go workspace
+go.work
+go.work.sum
